@@ -7,3 +7,7 @@
   * Axios
   * Redux
   * React-Router
+
+## How to run:
+  * npm install
+  * npm start
